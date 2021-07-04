@@ -1,0 +1,23 @@
+.carousel-inner img {
+    object-fit: cover;
+    object-position: right bottom;
+    height: 800px !important;
+    margin: 0 auto;
+}
+
+.carousel-caption p {
+    color: #000;
+}
+
+.carousel-caption h1,
+h2 {
+    color: #000;
+}
+
+.carousel-indicators li {
+    border-color: #000;
+}
+
+.carousel-indicators .active {
+    background-color: #000;
+}
